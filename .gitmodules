@@ -1,0 +1,12 @@
+[submodule "longest_common_prefix_problem_rust"]
+	path = longest_common_prefix_problem_rust
+	url = https://github.com/barlette/longest_common_prefix_problem_rust.git
+[submodule "roman_to_int_problem_rust"]
+	path = roman_to_int_problem_rust
+	url = https://github.com/barlette/roman_to_int_problem_rust.git
+[submodule "palindrome_problem_rust"]
+	path = palindrome_problem_rust
+	url = https://github.com/barlette/palindrome_number_problem_rust.git
+[submodule "two_sum_problem_rust"]
+	path = two_sum_problem_rust
+	url = https://github.com/barlette/two-sum-problem-rust.git
